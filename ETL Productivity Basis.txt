@@ -1,0 +1,5 @@
+This is the productivity based on Simple, medium, complex for developing a ETL mapping
+
+Simple 		: 1.5 days
+Medium Complex	: 3 days
+Complex		: 5 days

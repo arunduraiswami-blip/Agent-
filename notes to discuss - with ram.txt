@@ -1,0 +1,17 @@
+Slide#2 - I guess there is no Agentic Backlog - Not sure for now, how to visualize this
+2. Slide#3 - Rate card for Agents - This has to be discussed, generally, it is autonomous
+and once developed and deployed, not sure how the recurring cost is justified, to be charged to the
+customer, need to relook.
+3. Slide#6 - Agent development and deployment has to go through the life cycle, to be part of
+   development sprints.
+   for Eg. IN hand over - there is nothing like finalize agents.
+4. Prompt design is insignificant in agentic development as it is part of agents learning, and it is
+   not recurring effort.
+5.slide#9 - is this the water fall model? - This needs to get customized.
+6.slide#13 - where is the agent development cost? and it's not recurring.  How do you calculate the 
+  net value? based on outcome?
+7.Slide#22 - COntext of contanirization??
+8. What are the scenarios of agents off boarding?
+9.  
+
+
