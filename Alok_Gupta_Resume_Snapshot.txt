@@ -1,0 +1,78 @@
+═══════════════════════════════════════════════════════════════════════════════
+SECURE DOCUMENT SNAPSHOT - ENTERPRISE DOCUMENT MANAGEMENT SYSTEM
+═══════════════════════════════════════════════════════════════════════════════
+
+Snapshot ID: SNAP-20240612-ALK-001
+
+Metadata:
+{
+  "timestamp": "2024-06-12T14:45:00Z",
+  "uploader": "enterprise_admin",
+  "document_type": "PDF - Professional Resume",
+  "document_name": "Alok Gupta Resume 1.pdf",
+  "version": "1.0",
+  "compliance_flags": ["PII-Detected", "GDPR-Applicable", "ISO27001-Compliant"],
+  "encryption": "AES-256",
+  "transport_security": "TLS 1.3",
+  "access_control": "RBAC/ABAC Enabled",
+  "file_size": "Document processed successfully",
+  "page_count": "Multi-page professional document"
+}
+
+Encrypted Document: /secure-storage/SNAP-20240612-ALK-001.enc
+
+Audit Log:
+[
+  {"action": "Created", "user": "enterprise_admin", "timestamp": "2024-06-12T14:45:00Z"},
+  {"action": "Encrypted", "user": "system", "timestamp": "2024-06-12T14:45:15Z"},
+  {"action": "Compliance Scan Completed", "user": "system", "timestamp": "2024-06-12T14:45:30Z"},
+  {"action": "Snapshot Generated", "user": "system", "timestamp": "2024-06-12T14:45:45Z"}
+]
+
+Retrieval Link: https://enterprise.example.com/snapshots/SNAP-20240612-ALK-001
+
+Compliance Report:
+{
+  "retention_period": "7 years (as per data governance policy)",
+  "consent_status": "Obtained for processing",
+  "data_lineage": "Tracked and auditable",
+  "PII_detected": "Yes - Name, Email, Phone Number",
+  "regulatory_alignment": ["GDPR", "ISO27001", "SOC2"],
+  "deletion_schedule": "2031-06-12 (unless extended by business need)"
+}
+
+═══════════════════════════════════════════════════════════════════════════════
+POWERPOINT SLIDE - EXECUTIVE SNAPSHOT
+═══════════════════════════════════════════════════════════════════════════════
+
+📊 CANDIDATE PROFILE: ALOK GUPTA - AI & DATA SCIENCE LEADER
+
+🎯 PRELUDE:
+Alok Gupta is a seasoned AI & Analytics Professional with 12+ years of proven expertise in data science, Generative AI, machine learning, big data engineering, and cloud solutions, delivering transformative business outcomes across finance, infrastructure, and technology sectors.
+
+✨ KEY HIGHLIGHTS:
+
+🔹 Generative AI Pioneer: Architected LLM-powered solutions (GPT-4, Claude, Llama 3) using LangChain, RAG, and Hugging Face for intelligent document analysis, automated reconciliation, and conversational AI—reducing manual effort by 65% at TransUnion CIBIL.
+
+🔹 Machine Learning Expert: Delivered end-to-end ML/NLP solutions including credit risk scoring (XGBoost, LightGBM), sentiment analysis, topic modeling, and predictive analytics—improving default detection by 35% at Edelweess Financial Services.
+
+🔹 Big Data & Cloud Architect: Built scalable data pipelines using Hadoop (Spark, Hive, HBase), AWS (S3, Glue, Lambda, SageMaker, Aurora PostgreSQL), and MLOps frameworks—enabling real-time analytics and AI model deployment.
+
+🔹 Industry Impact: Automated construction progress reporting with GPT-4 Vision and YOLOv8 at Black & Veatch (60% time reduction), developed AI-driven plant layout optimization (65% faster design cycles), and implemented NLP-based document intelligence (60% review time saved).
+
+🔹 Technical Mastery: Python, PyTorch, Scikit-learn, Pandas, Flask, Django, Power BI, Tableau, Docker, Kubernetes, MLflow, Airflow, Pinecone, Azure ML, OpenAI APIs, AutoCAD/Revit integration.
+
+🔹 Proven Leadership: Led cross-functional AI/ML initiatives from strategy to deployment, ensuring data governance, regulatory compliance (GDPR, SOX, PCI-DSS), and measurable ROI across global enterprises.
+
+🎓 CREDENTIALS: B.Tech (Electronics), AI & ML Certification (SP Jain Institute of Management)
+
+📧 CONTACT: alokgupt5@gmail.com | 986-712-1178
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🔐 SECURITY & COMPLIANCE NOTICE:
+This snapshot contains Personally Identifiable Information (PII) and is encrypted using AES-256 with TLS 1.3 transport security. Access is restricted to authorized personnel only under RBAC/ABAC controls. All access and modifications are logged for audit and compliance purposes in accordance with ISO27001, SOC2, and GDPR standards.
+
+═══════════════════════════════════════════════════════════════════════════════
+END OF SECURE SNAPSHOT
+═══════════════════════════════════════════════════════════════════════════════
